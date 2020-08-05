@@ -8,9 +8,9 @@ import routes from './routes';
 const app = express();
 
 // por padrão o express não entende json, dessa forma ele passa a entender
+app.use(cors());
 app.use(express.json());
 app.use(routes);
-app.use(cors);
 
 // ouvir requisições HTTP através de uma porta
 app.listen(1337);
