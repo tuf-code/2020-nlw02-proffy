@@ -6,9 +6,12 @@ A Next Level Week criada pela Rocketseat se trata de uma experiência de aprendi
 
 O projeto escolhido pela Rocketseat se chama "Proffy". É uma plataforma de estudos, conectando alunos e professores para aulas online.
 
+Minha versão web pode ser vista em https://nlw02-omnistack-proffy.netlify.app/
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cd70baaf-2868-419c-8eb9-686c8ee288b5/deploy-status)](https://app.netlify.com/sites/nlw02-omnistack-proffy/deploys)
+
 # WEB
 <img width="600" src="./Home.png">
 
 # MOBILE
 <img width="600" src="./Home_Mobile.png">
-
