@@ -1,0 +1,20 @@
+{
+  "name": "NLW02",
+  "version": "1.0.0",
+  "description": "Projeto ministrado pelo [Diego Fernandes](https://github.com/diego3g), CTO da [Rocketseat](https://rocketseat.com.br/), em 03/08/2020 até 09/08/2020.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuf-code/2020-nlw02-proffy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuf-code/2020-nlw02-proffy/issues"
+  },
+  "homepage": "https://github.com/tuf-code/2020-nlw02-proffy#readme"
+}
