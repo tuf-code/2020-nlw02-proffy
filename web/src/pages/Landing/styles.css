@@ -31,18 +31,18 @@
 }
 
 .buttons-container {
-    display: flex;
     margin: 3.2rem 0;
+    display: flex;
 }
 
 .buttons-container a {
     width: 30rem;
     height: 10.4rem;
     border-radius: 0.8rem;
-    margin-right: 1.6rem;
     font: 700 2.0rem Archivo;
     
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: space-evenly;
 
@@ -50,6 +50,10 @@
     color: var(--color-button-text);
 
     transition: background-color 0.2s;
+}
+
+.buttons-container a:first-child {
+    margin-right: 1.6rem;
 }
 
 .buttons-container a img {
@@ -87,6 +91,7 @@
 @media (min-width: 400px) {
     .buttons-container a {
         display: flex;
+        flex-direction: row;
         justify-content: center;
 
         font-size: 2.4rem;
